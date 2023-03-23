@@ -2,3 +2,12 @@ https://github.com/vasusen-code/my-tt/archive/refs/tags/v1.24.0.zip
 cryptg
 ethon==0.1.2 #for VC
 tgcrypto
+https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
+dnspython
+heroku3
+motor
+Pillow>=5.3.0
+pymongo
+pymongo[srv]
+requests
+telegraph
